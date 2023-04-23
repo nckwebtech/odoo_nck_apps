@@ -4,9 +4,9 @@
     'summary': """Sell Real Estate Properties.""",
     'description': """This app helps to sell Real Estate Properties through website.""",
     'category': 'Accounting',
-    'author': 'NCK WebTech',
-    'company': 'NCK WebTech',
-    'maintainer': 'NCK WebTech',
+    'author': 'Zillo Tech',
+    'company': 'Zillo WebTech',
+    'maintainer': 'Zillo WebTech',
     'website': 'https://www.nckwebtech.com/',
     'depends': ['account', 'product', 'base', 'sale_management', 'stock'],
     'data': [

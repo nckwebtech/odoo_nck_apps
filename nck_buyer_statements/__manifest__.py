@@ -5,9 +5,9 @@
     'description': """This module helps to generate the Customer/Vendor
     statement reports and send via email.""",
     'category': 'Accounting',
-    'author': 'NCK WebTech',
-    'company': 'NCK WebTech',
-    'maintainer': 'NCK WebTech',
+    'author': 'Zillo Tech',
+    'company': 'Zillo WebTech',
+    'maintainer': 'Zillo WebTech',
     'website': 'https://www.nckwebtech.com/',
     'depends': ['base', 'account', 'contacts', 'mail', 'web', 'payment', 'portal'],
     'data': ['security/ir.model.access.csv',
